@@ -3,4 +3,4 @@ In this article I am going to explain how to create a MVC web application in ASP
 
 We will be using Visual Studio 2017 (Version 15.3.5 or above) and SQL Server 2008.
 # Read the full article at
-http://ankitsharmablogs.com/crud-operations-asp-net-core-using-angular-5-ado-net/
+
